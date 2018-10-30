@@ -1,4 +1,7 @@
 # plot DNA vs RNA rank differences
+
+## this is the code for figure 10 generation
+
 source("../set_path_variables.R")
 source("../process_table_functions.R")
 source("../recurrance_histogram.R")
