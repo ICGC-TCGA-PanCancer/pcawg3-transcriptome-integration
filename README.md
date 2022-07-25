@@ -17,3 +17,7 @@ Metadata needed for filtering and analysis:
 - Cancer Census genes used in this analysis: [cancer_census_genes_path](https://github.com/ICGC-TCGA-PanCancer/pcawg3-transcriptome-integration/blob/master/metadata/gencodeV14.v7.pancan_subset.ensembleID.list)
 
 - PCAWG driver genes used in this analysis: [driver_gene_path](https://github.com/ICGC-TCGA-PanCancer/pcawg3-transcriptome-integration/blob/master/metadata/cds_driver_genes_22_04_2017.tsv)
+
+- HLA genes removed from recurrance analysis: [hla_genes_path](https://github.com/ICGC-TCGA-PanCancer/pcawg3-transcriptome-integration/blob/master/metadata/HLA_genes_removed_Claudia_provided.tsv)
+
+- Genes with high enough expression to be included in the recurrance analysis: [fpkm_pass_path](https://github.com/ICGC-TCGA-PanCancer/pcawg3-transcriptome-integration/blob/master/metadata/whitelist_s001_f01_all.tsv)
